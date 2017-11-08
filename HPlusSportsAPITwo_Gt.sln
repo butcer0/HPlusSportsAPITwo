@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPlusSportsAPITwo_Gt", "HPlusSportsAPITwo_Gt\HPlusSportsAPITwo_Gt.csproj", "{29E057B4-F876-4F43-AF9E-2A08D817703D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HPlusSportsAPITwo", "HPlusSportsAPITwo\HPlusSportsAPITwo.csproj", "{98F8D6B7-87F0-40A6-B249-A2413F584642}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,25 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{29E057B4-F876-4F43-AF9E-2A08D817703D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{29E057B4-F876-4F43-AF9E-2A08D817703D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{29E057B4-F876-4F43-AF9E-2A08D817703D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{29E057B4-F876-4F43-AF9E-2A08D817703D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F8D6B7-87F0-40A6-B249-A2413F584642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F8D6B7-87F0-40A6-B249-A2413F584642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F8D6B7-87F0-40A6-B249-A2413F584642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F8D6B7-87F0-40A6-B249-A2413F584642}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9085298D-D183-4592-99C5-1188AE9A7330}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://emporos.visualstudio.com/
+		SccProjectUniqueName0 = HPlusSportsAPITwo\\HPlusSportsAPITwo.csproj
+		SccProjectName0 = HPlusSportsAPITwo
+		SccAuxPath0 = https://emporos.visualstudio.com
+		SccLocalPath0 = HPlusSportsAPITwo
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 	EndGlobalSection
 EndGlobal
